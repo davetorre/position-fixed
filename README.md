@@ -5,7 +5,7 @@ Position:Fixed is a chrome extension that removes position:fixed elements from w
 Usage
 --------
 * Clone/download this repo onto your computer.
-* Navigate to `chrome://extensions` and then drag and drop the cloned repo's directory into the list of extensions on that page.
+* Navigate to `chrome://extensions`, make sure developer mode is ON, and then drag and drop the cloned repo's directory into the list of extensions on that page.
 * Go to a website that has a fixed header and click on this extension's icon (it's a happy sun).
 
 The sun icon is from [here](https://openclipart.org/detail/290473/happy-sun)
